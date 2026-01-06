@@ -36,19 +36,14 @@ Jupyter Notebook
 
 ## Project Structure
 
-Titanic_EDA/
-│
-├── Data/
-│ └── train.csv
-│ └── test.csv
-│
-├── Notebook/
-│ └── titanic_eda.ipynb
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
+- Data/
+  - train.csv
+  - test.csv
+- Notebook/
+  - titanic_eda.ipynb
+- README.md
+- requirements.txt
+- .gitignore
 
 
 ## Analysis Performed
