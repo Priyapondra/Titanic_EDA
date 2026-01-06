@@ -1,0 +1,9 @@
+pandas → data loading, cleaning, analysis
+
+numpy → numerical operations (arrays, math)
+
+matplotlib → basic plotting
+
+seaborn → statistical visualizations
+
+jupyter → to run the notebook
